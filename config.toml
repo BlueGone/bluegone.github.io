@@ -1,4 +1,22 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+languageCode = 'fr'
+title = 'Thomas Plaçais'
 theme = 'PaperMod'
+defaultContentLanguage = 'fr'
+
+[params]
+    [params.profileMode]
+    enabled = true
+    subtitle = 'Développeur .NET à Lucca'
+    imageUrl = '/images/profile_picture.jpg'
+
+    [[params.socialIcons]]
+    name = 'github'
+    url = 'https://github.com/BlueGone'
+
+    [[params.socialIcons]]
+    name = 'twitter'
+    url = 'https://twitter.com/bluegone_'
+
+    [[params.socialIcons]]
+    name = 'linkedin'
+    url = 'https://linkedin.com/in/thomas-placais'
