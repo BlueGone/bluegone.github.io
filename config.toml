@@ -14,9 +14,5 @@ defaultContentLanguage = 'fr'
     url = 'https://github.com/BlueGone'
 
     [[params.socialIcons]]
-    name = 'twitter'
-    url = 'https://twitter.com/bluegone_'
-
-    [[params.socialIcons]]
     name = 'linkedin'
     url = 'https://linkedin.com/in/thomas-placais'
